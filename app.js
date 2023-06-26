@@ -6,6 +6,7 @@ import mongoose from "mongoose";
 import _ from 'lodash';
 import 'dotenv/config'
 
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
